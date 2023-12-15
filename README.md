@@ -1,1 +1,1 @@
-https://main--nimble-dragon-741077.netlify.app/
+live demo: https://asifdecoder.github.io/medium1/
