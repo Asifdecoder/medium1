@@ -16,7 +16,7 @@
   border-bottom: 1px solid black;
   justify-content: space-between;
   padding: 0px 162px;
-
+  transition: 0.6s ease;
   position: sticky;
   top: 0;
 }
@@ -28,6 +28,7 @@
   margin-left: 5px;
   height: 37.6px;
   width: 103.69px;
+  transition: 0.6s ease;
 
   border: none;
 }
